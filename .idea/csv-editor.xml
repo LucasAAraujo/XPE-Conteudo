@@ -3,14 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\dados_vendas_produtos.csv">
+        <entry key="\Bootcamp_Python_XPE\Modulo_2\Desafio_Modulo_2_Python\clientes_caracteristicas_fisicas.csv">
           <value>
             <Attribute>
-              <option name="separator" value=";" />
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\vendas_produtos_financeiros.csv">
+        <entry key="\Bootcamp_Python_XPE\Modulo_2\Desafio_Modulo_2_Python\clientes_informacoes_demograficas.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />
